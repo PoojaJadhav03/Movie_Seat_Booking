@@ -1,5 +1,5 @@
 # Movie_Seat_Booking
-Movie_Seat_Booking is static website created using html,css,javascript to book a ticket of moviw and also provide total bill of tickets you have booked.
+Movie_Seat_Booking is a static website created using HTML, CSS, javascript to book a film ticket and also provide a total invoice for tickets you have.
 # Output :
 ||||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
